@@ -5,7 +5,7 @@ Both the LIS2MDL and BM1422AGM use magnetoresistive magnetic elements for magnet
 
 Do these differences offer any significant improvement in the accuracy of abslute orientation estimation, in particular, heading accuracy? We design this breakout board to find out:
 
-![breakout board]()
+![breakout board](https://user-images.githubusercontent.com/6698410/61560919-7d576400-aa22-11e9-9299-d4272fe04fb5.jpg)
 
 Testing is currently underway.
 
